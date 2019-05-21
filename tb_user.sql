@@ -1,0 +1,5 @@
+INSERT INTO `tb_user` (`id`, `uname`, `upwd`, `email`, `role`, `registerTime`, `lastLoginTime`) VALUES (1, 'echo', '96e79218965eb72c92a549dd5a330112', 'abcd@qq.com', 'admin', '2019-5-21', '2019-5-21');
+INSERT INTO `tb_user` (`id`, `uname`, `upwd`, `email`, `role`, `registerTime`, `lastLoginTime`) VALUES (2, 'sunyue', 'a054ea923c6b43706a8fc3160eb5c120', 'abced@qq.com', 'admin', '2019-5-21', '2019-5-21');
+INSERT INTO `tb_user` (`id`, `uname`, `upwd`, `email`, `role`, `registerTime`, `lastLoginTime`) VALUES (3, 'doggy', 'e4ce5002a3be28dd123d8b432d05c9ec', 'bced@qq.com', 'admin', '2019-5-21', '2019-5-21');
+INSERT INTO `tb_user` (`id`, `uname`, `upwd`, `email`, `role`, `registerTime`, `lastLoginTime`) VALUES (4, 'echoo', '4297f44b13955235245b2497399d7a93', '12312@qq.com', 'employee', '2019-5-21', '2019-5-21');
+INSERT INTO `tb_user` (`id`, `uname`, `upwd`, `email`, `role`, `registerTime`, `lastLoginTime`) VALUES (5, 'xixi', 'e10adc3949ba59abbe56e057f20f883e', '122343@qq.com', 'employee', '2019-5-21', '2019-5-21');
